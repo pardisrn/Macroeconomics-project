@@ -1,0 +1,10 @@
+# Dependencies used by the supplied replication and extension notebook.
+# Versions are intentionally unpinned; a fresh environment has not been validated.
+numpy
+pandas
+scipy
+statsmodels
+mpmath
+matplotlib
+openpyxl
+jupyter
